@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lop:home|Door43 (lop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lop|d43-lop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lop/archive/master.zip|d43-lop.zip]]
+
+**Recent Changes**
+{{changes>ns = lop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lop|Ethnologue data]]
+
